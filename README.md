@@ -1,1 +1,1 @@
-# home-credit-scorecard-model
+# Home Credit Indonesia Data Scientist Virtual Internship Program
